@@ -1,0 +1,43 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 40px;
+    padding: 5px;
+}
+a:hover{
+    border-radius: 30px;
+    background-color: grey;
+}
+
+.logo img{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+#logo{
+  margin-right: 0px;
+  max-width: 200px;
+  margin-left: 0px;
+  padding-right:100px;
+  width: 400%; 
+}
+#img1{
+  width: 100%;
+  height: auto;
+}
+#img2{
+  width: 100%;
+  height: auto;
+}
+#img3{
+  width: 100%;
+  height: auto;
+}
+#logoutbutton{
+  margin-left: 10px;
+}
+#loginbutton{
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right:20px;
+}

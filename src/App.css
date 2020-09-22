@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.cover {
+  background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./Image/Rectangle\ 1.png");
+  min-width: 100%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  color: white;
+  height: 100vh;
+}
+#emailandpass{
+  color: tomato;
+}
