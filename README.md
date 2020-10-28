@@ -3,11 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [TRAVEL-GURU – A PLACE BOOKING APPLICATION](https://github.com/annoydey/Travel-Guru)
 
 Features 
-Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin.
+Site is responsive, it has firebase google & facebook authentication system and user can login by creating there account.Moreove user can see there booked places
 
 Client 
 * A user can select a place then booked with origin , date and Destination
 * Moreover user can create there account by simple email & password or login with google/facebook
+* User can see there booked place also
 
 Technology Used      
 * HTML 
