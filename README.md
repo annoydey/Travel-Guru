@@ -22,4 +22,6 @@ Technology Used
 
 [Website Link](https://travelgurusample1.web.app/)  
 
+![Travel-Guru](https://user-images.githubusercontent.com/43465122/218346736-5b835520-b5ae-4a3c-9c93-adc8c9edda12.jpg)
+
 ## 🔗 Portfolio Link: https://annoydey.github.io/portfolio/
