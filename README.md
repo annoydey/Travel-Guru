@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 [TRAVEL-GURU – A PLACE BOOKING APPLICATION](https://github.com/annoydey/Travel-Guru)
 
 Features 
